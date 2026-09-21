@@ -1,87 +1,46 @@
-# 📊 Power BI Sales Dashboard | لوحة معلومات المبيعات
+# Power BI Sales Dashboard
 
-This is an **interactive sales dashboard** built using **Power BI**, created for **educational purposes**.  
-هذه لوحة معلومات تفاعلية للمبيعات باستخدام Power BI، تم إنشاؤها لغرض **التعلم والتدريب**.
+A Power BI portfolio project that transforms sample sales data into an interactive management dashboard with KPI cards, filters, maps, and performance visuals.
 
----
+![Power BI sales dashboard](Screenshot-dashboard.png)
 
-## 🎯 Project Objective | هدف المشروع
+## Objective
 
-**EN:**  
-Teach beginners how to build a professional dashboard using Power BI by analyzing sales data across different dimensions.
+Practice turning raw sales data into a clear reporting layer that supports fast exploration of performance across time, geography, channels, departments, and product categories.
 
-**AR:**  
-تعليم المبتدئين كيفية بناء لوحة معلومات احترافية باستخدام Power BI من خلال تحليل بيانات المبيعات حسب أبعاد متعددة.
+## Dashboard features
 
----
+- KPI cards for total sales, customers, quantity, cities, and products
+- Year and quarter filters
+- Sales value by state map
+- Online vs. store channel comparison
+- Monthly sales trend
+- Sales by department
+- Customers by department
+- Detailed department, category, and quantity table
 
-## 📌 Dashboard Features | مميزات لوحة المعلومات
+## Tools and skills
 
-- ✅ **KPI Cards** | بطاقات مؤشرات الأداء:
-  - Total Sales | إجمالي المبيعات
-  - Number of Customers | عدد العملاء
-  - Quantity | الكمية
-  - Cities | المدن
-  - Products | المنتجات
+- Power BI Desktop
+- Data modeling
+- Slicers and filters
+- KPI design
+- Data visualization and reporting
+- DAX-based measures where applicable
 
-- 🗓️ **Date Filters** | فلاتر التاريخ:
-  - Year and Quarter | السنة والربع السنوي
+## Files
 
-- 🌍 **Map Visualization** | خريطة تفاعلية:
-  - Sales Value by State | قيمة المبيعات حسب الولاية
+- `Power BI Sales Dashboard (Educational Project).pbix` — Power BI report
+- `Screenshot-dashboard.png` — dashboard preview
 
-- 🏬 **Sales Channels** | قنوات البيع:
-  - Online vs Store | عبر الإنترنت مقابل المتجر
+## How to use
 
-- 📊 **Charts** | الرسوم البيانية:
-  - Sales Trend by Month | اتجاه المبيعات حسب الشهر
-  - Sales by Department | المبيعات حسب القسم
-  - Customers by Department | العملاء حسب القسم
+Download the `.pbix` file, open it in Power BI Desktop, and use the report filters and visuals to explore the dashboard.
 
-- 🧾 **Table View** | جدول تفصيلي:
-  - Department, Category, Quantity | القسم، الفئة، الكمية
+## Project note
 
----
+The project uses fictional/sample data for portfolio and training purposes and does not represent a real company.
 
-## 🧠 Skills You’ll Learn | المهارات التي ستتعلمها
+## Author
 
-- Power BI basics | أساسيات Power BI  
-- Data modeling | نمذجة البيانات  
-- Using slicers and filters | استخدام الفلاتر والمحددات  
-- Visualization best practices | أفضل ممارسات التصوير البياني  
-- Optional DAX measures | مقاييس DAX 
-
----
-
-## 🖼️ Sample Dashboard | نموذج من اللوحة
-
-![Dashboard Screenshot](Screenshot-dashboard.png)
-
----
-
-## 🗂️ Files Included | الملفات المرفقة
-
-| File | Description |
-|------|-------------|
-| `SalesDashboard.pbix` | Power BI dashboard file |
-| `README.md` | This documentation file |
-
----
-
-## 🚀 How to Use | كيفية الاستخدام
-
-1. Download the `.pbix` file  
-   قم بتحميل ملف Power BI `.pbix`  
-2. Open it with **Power BI Desktop**  
-   افتحه باستخدام برنامج Power BI Desktop  
-3. Explore and modify the visuals  
-   تصفح الرسوم البيانية وحاول تعديلها 
-
----
-
-## 📚 Educational Purpose Only | للاستخدام التعليمي فقط
-
-**EN:**  
-The data used here is fictional or sample data for learning purposes.  
-**AR:**  
-البيانات المستخدمة هنا وهمية أو تجريبية لغرض التعلم فقط، وليست للاستخدام التجاري .
+Raneem Alzahrani · [LinkedIn](https://www.linkedin.com/in/raneem-alzhrani-/) · [Portfolio](https://sites.google.com/view/raneemalzahrany/home)
