@@ -1,14 +1,14 @@
-# Power BI Sales Dashboard
+# Power BI Sales Performance Dashboard
 
-A Power BI portfolio project that transforms sample sales data into an interactive management dashboard with KPI cards, filters, maps, and performance visuals.
+Power BI portfolio project that transforms sample sales data into an interactive management dashboard with KPI cards, filters, maps, and performance visuals.
 
-![Power BI sales dashboard](Screenshot-dashboard.png)
+![Dashboard preview](Screenshot-dashboard.png)
 
-## Objective
+## Project Overview
 
-Practice turning raw sales data into a clear reporting layer that supports fast exploration of performance across time, geography, channels, departments, and product categories.
+The report is designed to make sales performance easier to review across time, geography, channels, departments, and product categories.
 
-## Dashboard features
+## Dashboard Highlights
 
 - KPI cards for total sales, customers, quantity, cities, and products
 - Year and quarter filters
@@ -17,30 +17,26 @@ Practice turning raw sales data into a clear reporting layer that supports fast 
 - Monthly sales trend
 - Sales by department
 - Customers by department
-- Detailed department, category, and quantity table
+- Department, category, and quantity detail table
 
-## Tools and skills
+## Tools & Skills
 
-- Power BI Desktop
-- Data modeling
-- Slicers and filters
-- KPI design
-- Data visualization and reporting
-- DAX-based measures where applicable
+**Power BI Desktop** · **Data Modeling** · **DAX** · **Slicers & Filters** · **KPI Design** · **Data Visualization** · **Business Reporting**
 
-## Files
+## Repository Files
 
 - `Power BI Sales Dashboard (Educational Project).pbix` — Power BI report
 - `Screenshot-dashboard.png` — dashboard preview
 
-## How to use
+## How to Explore
 
-Download the `.pbix` file, open it in Power BI Desktop, and use the report filters and visuals to explore the dashboard.
+Download the `.pbix` file, open it in Power BI Desktop, and use the filters and visuals to explore the report.
 
-## Project note
+## Portfolio Note
 
 The project uses fictional/sample data for portfolio and training purposes and does not represent a real company.
 
 ## Author
 
-Raneem Alzahrani · [LinkedIn](https://www.linkedin.com/in/raneem-alzhrani-/) · [Portfolio](https://sites.google.com/view/raneemalzahrany/home)
+**Raneem Alzahrani**  
+[LinkedIn](https://www.linkedin.com/in/raneem-alzhrani-/) · [Portfolio](https://sites.google.com/view/raneemalzahrany/home) · [GitHub](https://github.com/Raneem6)
